@@ -1,1 +1,3 @@
-All the assignments have readme in their respective folders.
+# Data Mining Assignment
+
+All the assignment folder have their respective readme
