@@ -6,7 +6,7 @@ This project uses Auto AI to predict airline passenger satisfaction based on a d
 
 A video demonstration of the project is available on YouTube:
 
-[Watch Demo Video](youtube.com/abc/1123)
+[Watch Demo Video](https://www.youtube.com/watch?v=hRRFqHXi9-g)
 
 ## Project Overview
 
