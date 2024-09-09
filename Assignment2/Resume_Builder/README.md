@@ -1,6 +1,7 @@
 # AI-Enhanced Resume Builder 📄✨
 
 Hey there! This is my cool project that uses AI to make your resume awesome! 🚀
+
 AI Pair Programmer - Github Copilot
 
 ## What it does
