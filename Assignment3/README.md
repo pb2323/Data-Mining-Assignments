@@ -2,11 +2,17 @@
 
 This project uses Auto AI to predict airline passenger satisfaction based on a dataset from Kaggle. The model was trained and deployed using Akkio, achieving a high accuracy rate.
 
+## Demo
+
+A video demonstration of the project is available on YouTube:
+
+[Watch Demo Video](youtube.com/abc/1123)
+
 ## Project Overview
 
 - **Dataset**: Airline Passenger Satisfaction from Kaggle
 - **AI Platform**: Akkio
-- **Model Accuracy**: 93% on test set (20% of data)
+- **Model Accuracy**: 93%
 - **Deployment**: Successfully deployed and tested
 
 ## Dataset
@@ -33,12 +39,6 @@ Using AI, we explored the dataset by asking questions such as:
 - Average customer satisfaction
 - Relationship between customer age and satisfaction
 
-## Demo
-
-A video demonstration of the project is available on YouTube:
-
-[Watch Demo Video](youtube.com/abc/1123)
-
 ## How to Use
 
 1. Visit the deployed model link above.
@@ -51,7 +51,3 @@ A video demonstration of the project is available on YouTube:
 - Explore feature importance to understand key factors affecting passenger satisfaction.
 - Develop a user-friendly interface for easier interaction with the model.
 
-## Acknowledgments
-
-- Kaggle for providing the dataset
-- Akkio for the Auto AI platform and deployment services
