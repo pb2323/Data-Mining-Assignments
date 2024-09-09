@@ -1,56 +1,53 @@
-# AI Pair Programmer
+# AI-Enhanced Resume Builder 📄✨
 
-Hey there! 👋 This is my cool AI Pair Programmer project. It's like having a coding buddy, but it's a computer! 🤖💻
+Hey there! This is my cool project that uses AI to make your resume awesome! 🚀
 
 ## What it does
 
-This program helps you write code by giving suggestions and completing parts of your code. It's pretty neat!
-
-Here's what it can do:
-- Finish your code lines
-- Suggest function names
-- Help with debugging
-- Explain code snippets
+This app takes your resume, reads it with AI magic, and then:
+1. Suggests ways to make it better 💡
+2. Gives your resume a score out of 10 🏆
+3. Explains why it gave that score 🤔
 
 ## How to use it
 
-1. Clone this repo to your computer
-2. Install the stuff you need (check out `requirements.txt`)
-3. Run `python main.py`
-4. Start coding and watch the magic happen!
+1. Clone this repo
+2. Install the stuff you need:
 
-## Requirements
+```pip install -r requirements.txt```
+
+3. Run the app:
+
+```python app.py```
+
+4. Open your browser and go to `http://localhost:5000`
+5. Upload your resume and see the magic happen!
+
+## What you need
 
 - Python 3.7 or newer
-- Some AI libraries (check `requirements.txt` for the full list)
+- Flask
+- google-generativeai
+- Some other stuff (check `requirements.txt`)
 
 ## How it works
 
-It uses a fancy AI model trained on tons of code. When you start typing, it looks at what you've written and tries to guess what you want to do next.
+1. You upload your resume
+2. Our AI friend (thanks, Google Gemini!) reads it
+3. The AI thinks really hard about your resume
+4. It tells you how to improve and gives you a score
 
 ## Known issues
 
-- Sometimes it suggests weird variable names 😅
-- Might get confused with really complex code
+- Sometimes the AI gets confused by weird formats 🙃
+- It might give strange advice for very specific jobs
 
 ## Future plans
 
 I want to make it even cooler by:
-- Adding support for more programming languages
-- Making it understand comments better
-- Maybe adding a GUI?
+- Adding support for more file types
+- Making the suggestions more specific
+- Adding a feature to edit your resume right in the app
 
-## Credits
 
-Big thanks to:
-- My coding teacher for the idea
-- The creators of the AI model I used
-- Stack Overflow (couldn't have done it without you! 😂)
-
-## License
-
-This project is under the "Do Whatever You Want" license. Just kidding, it's MIT licensed.
-
----
-
-Made with ❤️ and lots of coffee ☕ by [Your Name]
+Made with 💖 by Puneet Bajaj
