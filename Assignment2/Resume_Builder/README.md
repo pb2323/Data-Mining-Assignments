@@ -11,6 +11,13 @@ This app takes your resume, reads it with AI magic, and then:
 2. Gives your resume a score out of 10 🏆
 3. Explains why it gave that score 🤔
 
+## Tech Stack
+
+1. Flask
+2. Google Gemini
+3. HTML/CSS
+
+
 ## How to use it
 
 1. Clone this repo
