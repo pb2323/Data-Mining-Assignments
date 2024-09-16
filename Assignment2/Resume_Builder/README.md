@@ -2,12 +2,23 @@
 
 Hey there! This is my cool project that uses AI to make your resume awesome! 🚀
 
+AI Pair Programmer - Github Copilot
+
+Youtube Video - https://www.youtube.com/watch?v=92L0uh9xw2c
+
 ## What it does
 
 This app takes your resume, reads it with AI magic, and then:
 1. Suggests ways to make it better 💡
 2. Gives your resume a score out of 10 🏆
 3. Explains why it gave that score 🤔
+
+## Tech Stack
+
+1. Flask
+2. Google Gemini
+3. HTML/CSS
+
 
 ## How to use it
 
