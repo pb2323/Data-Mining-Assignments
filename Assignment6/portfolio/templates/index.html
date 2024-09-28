@@ -1,0 +1,91 @@
+{% extends "base.html" %}
+
+{% block content %}
+<section id="about-me">
+    <h2>About Me</h2>
+    <p>{{ about_me }}</p>
+</section>
+
+<section id="skills">
+    <h2>Skills</h2>
+    <h3>Languages</h3>
+    <ul class="skills-grid">
+        {% for language in skills.languages %}
+        <li>{{ language }}</li>
+        {% endfor %}
+    </ul>
+    <h3>Frameworks</h3>
+    <ul class="skills-grid">
+        {% for framework in skills.frameworks %}
+        <li>{{ framework }}</li>
+        {% endfor %}
+    </ul>
+    <h3>Tools/Paradigms</h3>
+    <ul class="skills-grid">
+        {% for tool in skills.tools %}
+        <li>{{ tool }}</li>
+        {% endfor %}
+    </ul>
+    <h3>Databases/OS</h3>
+    <ul class="skills-grid">
+        {% for db in skills.databases %}
+        <li>{{ db }}</li>
+        {% endfor %}
+        {% for os in skills.os %}
+        <li>{{ os }}</li>
+        {% endfor %}
+    </ul>
+</section>
+
+<section id="projects">
+    <h2>Projects</h2>
+    {% for project in projects %}
+    <div>
+        <h3>{{ project.name }}</h3>
+        <p>{{ project.description }}</p>
+        <p>Technologies: {{ project.technologies | join(', ') }}</p>
+        <p><a href="{{ project.github }}">GitHub</a> | <a href="{{ project.website }}">Website</a></p>
+    </div>
+    {% endfor %}
+</section>
+
+<section id="experience">
+    <h2>Experience</h2>
+    {% for job in experience %}
+    <div class="experience-item">
+        <h3>{{ job.title }} | {{ job.company }}</h3>
+        <p>{{ job.duration }}</p>
+        <ul>
+            {% for detail in job.details %}
+            <li>{{ detail }}</li>
+            {% endfor %}
+        </ul>
+    </div>
+    {% endfor %}
+</section>
+
+<section id="education">
+    <h2>Education</h2>
+    {% for edu in education %}
+    <div>
+        <h3>{{ edu.degree }}</h3>
+        <p>{{ edu.institution }}</p>
+        <p>Graduation: {{ edu.graduation }}</p>
+        {% if edu.cgpa %}
+        <p>CGPA: {{ edu.cgpa }}</p>
+        {% endif %}
+    </div>
+    {% endfor %}
+</section>
+
+<section id="volunteer">
+    <h2>Volunteer Experience</h2>
+    {% for vol in volunteer %}
+    <div>
+        <h3>{{ vol.role }}</h3>
+        <p>{{ vol.duration }}</p>
+        <p>{{ vol.details }}</p>
+    </div>
+    {% endfor %}
+</section>
+{% endblock %}
