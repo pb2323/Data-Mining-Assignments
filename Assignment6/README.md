@@ -1,6 +1,6 @@
 # README
 
-Portfolio is the project made via github copilot extension which is not a part of the scope current scope of the assignment (It was removed from scode after this was made so keeping in current assignment itself). It has its own readme file.
+Portfolio is the project made via github copilot extension which is not a part of the scope current scope of the assignment (It was removed from scode after this was made so keeping in current assignment itself). It has its own readme file. Below mentioned are the details, AI chat history, and medium article for the Data science using AI chat assignment, which is part of the current scope.
 
 # **Stroke Prediction Project: A CRISP-DM Based Approach**
 
