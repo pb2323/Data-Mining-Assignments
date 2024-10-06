@@ -27,6 +27,7 @@ The objective is to:
 Here is the **transcript** of my conversation with an AI assistant (from Perplexity.ai), where I performed a step-by-step prediction process on the stroke dataset:
 
 - Link to AI Chat Transcript: [Chat Transcript from Perplexity](https://www.perplexity.ai/search/as-an-industry-expert-data-sci-23Pph2gfSfaUdPjgHqxhsg)
+- Link to pdf of AI Chat Transcript : [Chat Transcript from Perplexity pdf](https://drive.google.com/file/d/12K5mYMRkivxyW_lRLPOUsu7eJy0kC18C/view?usp=sharing)
 
 ## **Medium Article**
 
