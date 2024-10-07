@@ -4,6 +4,8 @@ This notebook provides a quick introduction to using AutoGluon's `TabularPredict
 
 Google Colab Link - [https://colab.research.google.com/drive/1k6u8i89YVumy0_0MWk7IZt5ZK7ov3xne?usp=sharing](https://colab.research.google.com/drive/1k6u8i89YVumy0_0MWk7IZt5ZK7ov3xne?usp=sharing)
 
+Youtube Video - [https://www.youtube.com/watch?v=_usbhcK18gI](https://www.youtube.com/watch?v=_usbhcK18gI)
+
 ## Theory
 
 **AutoGluon** is an open-source AutoML (Automated Machine Learning) library that aims to automate the process of developing high-performing machine learning models for various tasks, including tabular data prediction. 

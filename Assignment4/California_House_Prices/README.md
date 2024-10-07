@@ -4,6 +4,8 @@ This Colab notebook demonstrates how to use AutoGluon to predict house prices us
 
 Google Colab Link - [https://colab.research.google.com/drive/1WdsvV0G4jYTqpbt2RsqoiVtnulyCeF4h](https://colab.research.google.com/drive/1WdsvV0G4jYTqpbt2RsqoiVtnulyCeF4h)
 
+Youtube Video - [https://www.youtube.com/watch?v=_usbhcK18gI](https://www.youtube.com/watch?v=_usbhcK18gI)
+
 ## Setup
 
 1. Install necessary libraries: `bash !pip3 install kaggle autogluon`

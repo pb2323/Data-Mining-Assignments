@@ -4,6 +4,8 @@ This Colab notebook demonstrates how to train a multimodal ensemble using data t
 
 Google Colab Link - [https://colab.research.google.com/drive/1gzGS-oxX3qyH-LuFZ_0DKJ29ABYqzOtf?usp=sharing](https://colab.research.google.com/drive/1gzGS-oxX3qyH-LuFZ_0DKJ29ABYqzOtf?usp=sharing)
 
+Youtube Video - [https://www.youtube.com/watch?v=_usbhcK18gI](https://www.youtube.com/watch?v=_usbhcK18gI)
+
 ## Theory
 
 **Multimodal learning** is a subfield of machine learning that aims to build models that can process and relate information from multiple modalities, such as images, text, and tabular data. This approach leverages the complementary information present in different modalities to improve the overall performance of the model.

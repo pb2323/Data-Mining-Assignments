@@ -5,6 +5,8 @@ AutoGluon automates the process of developing andtuning high-performing machine 
 
 Google Colab Link - [https://colab.research.google.com/drive/1QP1gI4ZZklQpXmgrxe6rzsoLRBnh6xVn?usp=sharing](https://colab.research.google.com/drive/1QP1gI4ZZklQpXmgrxe6rzsoLRBnh6xVn?usp=sharing)
 
+Youtube Video - [https://www.youtube.com/watch?v=_usbhcK18gI](https://www.youtube.com/watch?v=_usbhcK18gI)
+
 ## Theory
 
 AutoGluon-Tabular leverages several key concepts toachieve robust and accurate predictions:

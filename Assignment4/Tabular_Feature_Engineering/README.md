@@ -4,6 +4,8 @@ This Colab notebook demonstrates how to use AutoGluon's automatic feature engine
 
 Google Colab Link - [https://colab.research.google.com/drive/14t6k7Gy_eNGHynLCygpuYprJ45dk-kD0?usp=sharing](https://colab.research.google.com/drive/14t6k7Gy_eNGHynLCygpuYprJ45dk-kD0?usp=sharing)
 
+Youtube Video - [https://www.youtube.com/watch?v=_usbhcK18gI](https://www.youtube.com/watch?v=_usbhcK18gI)
+
 ## Theory
 
 **Feature engineering** is the process of transforming raw data into features that are more suitable for machine learning models. It can involve tasks such as:

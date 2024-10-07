@@ -1,5 +1,7 @@
 Colab Link - [https://colab.research.google.com/drive/1HmCbkh0tWGT-YDk0KHn-9kr97k_w3SV-#scrollTo=zqQSpx6Pcw0j](https://colab.research.google.com/drive/1HmCbkh0tWGT-YDk0KHn-9kr97k_w3SV-#scrollTo=zqQSpx6Pcw0j)
 
+Youtube Video - [https://www.youtube.com/watch?v=_usbhcK18gI](https://www.youtube.com/watch?v=_usbhcK18gI)
+
 ## Overview
 
 The notebook outlines a systematic approach for using AutoGluon in Kaggle competitions, covering the following steps:
