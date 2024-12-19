@@ -1,0 +1,14 @@
+awscli
+requests
+beautifulsoup4
+pendulum
+apache-airflow
+pymongo
+scikit-learn
+psycopg2-binary
+pandas
+numpy
+mlflow
+apache-beam
+evidently
+scipy
